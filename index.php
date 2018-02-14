@@ -33,6 +33,5 @@ class Tag{
 
 $tag = new Tag('a'); // вызывается __construct 
 $tag->setText('ссылка')->setAttr('href', 'index.html')->show();
-$tag->setText('ссылка')->setAttr('href', 'index.html')->show();
 
  ?>
